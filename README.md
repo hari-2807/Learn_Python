@@ -6,8 +6,8 @@ This repository documents my progress in mastering Python. Each project focuses 
 
 | Project | Core Concepts Mastered | Technical Skills |
 | :--- | :--- | :--- |
-| **[Band Name Generator](./01-Band-Name-Generator/)** | Variables & Strings | `print()`, `input()`, Concatenation |
-| **[Tip Calculator](./02-Tip-Calculator/)** | Data Types & Math | `float()`, `int()`, f-Strings, Operators ||
+| **[Band Name Generator](./Band-Name-Generator/)** | Variables & Strings | `print()`, `input()`, Concatenation |
+| **[Tip Calculator](./Tip-Calculator/)** | Data Types & Math | `float()`, `int()`, f-Strings, Operators ||
 
 ---
 

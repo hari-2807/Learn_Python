@@ -1,4 +1,4 @@
-# Day 2: Understanding Data Types and Manipulating Numbers
+# Understanding Data Types and Manipulating Numbers
 
 ## 🎯 Goal
 Build a **Tip Calculator** that can handle user input, perform mathematical calculations involving percentages, and format numerical output using f-strings.

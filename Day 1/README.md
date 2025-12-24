@@ -1,4 +1,4 @@
-# Day 1: Working with Variables in Python to Manage Data
+# Working with Variables in Python to Manage Data
 
 ## 🎯 Goal
 Build a **Band Name Generator** while mastering the basic mechanics of Python, including printing, inputting, and variable management.
